@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manojbelbase
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning Frontend web Development
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: manojbelbasay@gmail.com
 
