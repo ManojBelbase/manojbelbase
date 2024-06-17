@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://manojbelbase.com.np/](https://manojbelbase.com.np/)
 - 💬 Ask me about **ReactJS*
 - 📫 How to reach me **manojbelbasay@gmail.com**
-- ⚡ Fun fact **I am an ambivert.😁**
+- ⚡ Fun fact **I can swim.😁**
  </div>
  
 <div align="center"> 
