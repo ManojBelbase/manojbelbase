@@ -42,16 +42,3 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- <img src="https://raw.githubusercontent.com/manojbelbase/manojbelbase/output/snake.svg" alt="Snake animation" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-<br>
-
