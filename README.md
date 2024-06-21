@@ -31,6 +31,7 @@
   </a>
 </div>
 <div align="center">
+    <p>Profile Visit</p>
   <img src="https://profile-counter.glitch.me/manojbelbase/count.svg?"  />
 </div>
  <hr/>
