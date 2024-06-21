@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 <br clear="both">
-<div align=center>
+<div align=center style="display:none">
 <img src="https://raw.githubusercontent.com/manojbelbase/manojbelbase/output/snake.svg" alt="Snake animation" />
 </div>
 
