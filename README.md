@@ -42,4 +42,7 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/manojbelbase/manojbelbase/output/snake.svg" alt="Snake animation" />
 
