@@ -1,5 +1,6 @@
 
  [![](https://visitcount.itsvg.in/api?id=manojbelbase&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namaste+🙏;+I'm+Manoj+Belbase!;" />
 </h1>
@@ -28,6 +29,7 @@
   </a>
   <a href="https://manojbelbase.com.np/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+   
   </a>
 </div>
 <div align="center">
