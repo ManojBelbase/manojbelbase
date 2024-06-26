@@ -19,7 +19,7 @@
 - 📫 How to reach me **manojbelbasay@gmail.com**
 - ⚡ Fun fact **I can swim.😁**
  </div>
-
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojbelbase"  alt="manojbelbase" /></a> </p>
 <div align="center"> 
   <a href="manojbelbasay@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
