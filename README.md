@@ -6,19 +6,17 @@
 </h1>
 
 <h3 align="center">A passionate Web developer from Nepal NP</h3>
-<p align="center">
-  <img align="center" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
-</p>
-<br/>
 
-<div align="left">
+  <img align="right" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
+
+<p align="left">
     
 - 🌱 I’m currently learning **Backend**
 - 👨‍💻 All of my projects are available at [https://manojbelbase.com.np/](https://manojbelbase.com.np/)
 - 💬 Ask me about **ReactJS**
 - 📫 How to reach me **manojbelbasay@gmail.com**
 - ⚡ Fun fact **I can swim.😁**
- </div>
+ </p>
 
 <div align="center" style="margin-bottom: 20"> 
   <a href="manojbelbasay@gmail.com">
