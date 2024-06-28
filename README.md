@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate Web developer from Nepal NP</h3>
 
-  <img align="right" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
+  <img align="right" alt="coding" width="400px" style="margin-left: 20" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
 <p align="left">
     
