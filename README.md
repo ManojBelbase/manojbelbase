@@ -12,9 +12,13 @@
 <p align="left">
     
 - 🌱 I’m currently learning **Backend**
+  
 - 👨‍💻 All of my projects are available at [https://manojbelbase.com.np/](https://manojbelbase.com.np/)
+  
 - 💬 Ask me about **ReactJS**
+  
 - 📫 How to reach me **manojbelbasay@gmail.com**
+  
 - ⚡ Fun fact **I can swim.😁**
  </p>
 
