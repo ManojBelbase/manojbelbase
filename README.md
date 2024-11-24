@@ -13,7 +13,7 @@
     
 - 🌱 I’m currently learning **Backend**
   
-- 👨‍💻 All of my projects are available at [https://www.manojbelbase.com.np/](https://manojbelbase.com.np/)
+- 👨‍💻 All of my projects are available at [https://www.manojbelbase.com.np/](https://www.manojbelbase.com.np/)
   
 - 💬 Ask me about **ReactJS**
   
