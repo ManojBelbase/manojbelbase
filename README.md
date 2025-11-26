@@ -17,7 +17,7 @@
   
 - 💬 Ask me about **ReactJS**
   
-- 📫 How to reach me **manojbelbasay@gmail.com**
+- 📫 How to reach me **manojbelbase56@gmail.com**
   
 - ⚡ Fun fact **I can swim.😁**
  </p>
