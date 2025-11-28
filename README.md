@@ -19,7 +19,6 @@
   
 - 📫 How to reach me **manojbelbase56@gmail.com**
   
-- ⚡ Fun fact **I can swim.😁**
  </p>
 
 <div align="center" style="margin-bottom: 20"> 
